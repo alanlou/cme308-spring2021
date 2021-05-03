@@ -1,8 +1,8 @@
-# Stanford CME 308: Stochastic Methods in Engineering (Spring 2021)
+# CME 308: Stochastic Methods in Engineering (Spring 2021)
 
 
 
-This repository contains my personal note for Stanford CME 308: Stochastic Methods in Engineering (Spring 2021)
+This repository contains my personal note for [CME 308: Stochastic Methods in Engineering](https://web.stanford.edu/class/cme308/)
 
 
 
